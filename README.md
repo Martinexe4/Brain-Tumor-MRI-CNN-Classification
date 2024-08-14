@@ -1,5 +1,3 @@
-Berikut adalah contoh README untuk proyek klasifikasi tumor otak menggunakan CNN:
-
 ---
 
 # Brain Tumors Classification Using CNN
@@ -73,4 +71,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-Feel free to modify the README to better suit your project's specific needs!
